@@ -1,1 +1,1 @@
-[Link.Cat](https://octodex.github.com/linktocat/)
+![Link.Cat](https://octodex.github.com/linktocat/)
